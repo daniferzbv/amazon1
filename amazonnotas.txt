@@ -1,0 +1,8 @@
+Haciendo una aplicacion desde amazon
+
+-Primero escogemos el servidor linux de ubuntu 
+
+Cuando ya esta creada, le damos a conectar y se nos abre la terminal de linux y a partir de ahi seguimos los pasos de:
+https://web.archive.org/web/20200608052030/https://medium.com/techfront/step-by-step-visual-guide-on-deploying-a-flask-application-on-aws-ec2-8e3e8b82c4f7
+
+En los pasos que sale instalaciones como esta sudo apt-get python3-venv despues del apt-get hay que poner install
